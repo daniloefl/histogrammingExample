@@ -1,2 +1,5 @@
 # histogrammingExample
-Educational code showing how histogramming works
+
+Educational code showing how histogramming works.
+
+
